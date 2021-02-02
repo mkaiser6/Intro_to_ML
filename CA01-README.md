@@ -1,11 +1,12 @@
 ﻿
 
-# CA01: Exploratory Data Analysis – India Pollution Data - Max Kaise
+# CA01: Exploratory Data Analysis – India Pollution Data - Max Kaiser
 
 # Project Overview 
 
 Exploring India’s air pollution levels by analysing data released by the Ministry of Environment and Forests and Central Pollution. Control Board of India under the National Data Sharing and Accessibility Policy(NDSAP).
 
+# Dataset 
 
 The dataset has 13 columns: 
 
@@ -47,6 +48,7 @@ Download the Python File India_Air_Quality_CA01_Max_Kaiser .ipynb
 **Configuration instructions**
 
 *Python*
+
 *Integrated Development Environment (IDE)*
 
 **Installation instructions**
@@ -63,7 +65,6 @@ import matplotlib.pyplot as plt
 The project template was provided by  [Arin Brahma](https://github.com/ArinB)  at Loyola Marymount University.
 
 The Dataset used was provided by  [Kaggle](https://www.kaggle.com/shrutibhargava94/india-air-quality-data).
-
 
 
 **Contact information**
