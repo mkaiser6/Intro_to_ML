@@ -28,7 +28,7 @@ test-mails (260 text files)
 #from sklearn.metrics import accuracy_score
 
 
-**Installation Instructions **
+**Installation Instructions**
 
 Please find two zip files titled 'test-mail.zip' and 'train-mail.zip' in the CA02 foler to download 
 
