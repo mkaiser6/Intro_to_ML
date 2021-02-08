@@ -17,11 +17,15 @@ test-mails (260 text files)
 
 **Packages to import:**
 
-import os
-import numpy as np
-from collections import Counter
-from sklearn.naive_bayes import GaussianNB
-from sklearn.metrics import accuracy_score
+#import os
+
+#import numpy as np
+
+#from collections import Counter
+
+#from sklearn.naive_bayes import GaussianNB
+
+#from sklearn.metrics import accuracy_score
 
 
 **Downloading & Accessing the Data**
