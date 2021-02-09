@@ -37,9 +37,10 @@ Download & save the data and use the path when reading/accesing it
 When using Jupyter Notebook please adjust your file path (username and folder) on your local Computer: 
 
 TRAIN_DIR = '/Users/maxkaiser/Desktop/train-mails' 
+
 TEST_DIR = '/Users/maxkaiser/Desktop/test-mails'
 
-or 
+*or* 
 
 Please use the following code to share files/ mount your Google Drive in Colab 
 
