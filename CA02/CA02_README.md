@@ -15,6 +15,8 @@ train-mails (442 text files)
 test-mails (260 text files)
 
 
+______________________________________________________________________________________________________________________
+
 **Packages to import:**
 
 #import os
@@ -26,6 +28,9 @@ test-mails (260 text files)
 #from sklearn.naive_bayes import GaussianNB
 
 #from sklearn.metrics import accuracy_score
+
+
+______________________________________________________________________________________________________________________
 
 
 **Installation Instructions**
