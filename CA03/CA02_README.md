@@ -14,7 +14,9 @@ along with seven demographic variables. The following is a description of our da
 
 • Number of instances (Rows): 48,842
 
-The data is provided in a .csv file and you can downlaod it from the following GitHub link https://github.com/ArinB/MSBA-CA-03-Decision-Trees to save it on your local drive/folder. 
+The data is provided in a .csv file and you can downlaod it from the following GitHub link https://github.com/ArinB/MSBA-CA-03-Decision-Trees 
+
+and save it on your local drive/folder. 
 
 File: 
 
