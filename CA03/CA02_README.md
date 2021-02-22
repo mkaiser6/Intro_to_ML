@@ -7,8 +7,11 @@
 
 The dataset is obtained from the Census Bureau and represents salaries of people
 along with seven demographic variables. The following is a description of our dataset:
+
 • Number of target classes: 2 ('>50K' and '<=50K') [ Labels: 1, 0 ]
+
 • Number of attributes (Columns): 7
+
 • Number of instances (Rows): 48,842
 
 The data is provided in a .csv file and you can downlaod it from the following GitHub link https://github.com/ArinB/MSBA-CA-03-Decision-Trees to save it on your local drive/folder. 
@@ -16,6 +19,8 @@ The data is provided in a .csv file and you can downlaod it from the following G
 File: 
 
 census_data.csv
+
+The goal goal is to predict whether an unknown person with certain characteristics has an income greater than 50k or less than or equal to 50k (classified 1 or 0)
 
 
 ______________________________________________________________________________________________________________________
