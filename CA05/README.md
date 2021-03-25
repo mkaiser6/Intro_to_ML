@@ -3,6 +3,10 @@
 
 **Assignment Description:**
 
+Cardiovascular Disease (CVD) kills more people than cancer globally. Using the dataset of real heart patients
+collected from a 15 year heart study cohort, we try to predict the CVD Risk & importance of certain features by building the best performing model certain metrics. 
+
+
 **Part 1:** Building a binary classifier model to predict the CVD Risk (Yes/No, or 1/0) using a Logistic
 Regression Model with the best performance possible. 
 
