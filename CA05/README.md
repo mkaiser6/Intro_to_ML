@@ -15,7 +15,7 @@ the CVD Risk.
 draw a meaningful conclusion. 
 
 ______________________________________________________________________________________________________________________
-**1. Data Source and Contents**
+**Data Source and Contents**
 
 Data File Name: cvd_data.csv
 
