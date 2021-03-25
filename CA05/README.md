@@ -27,7 +27,7 @@ Data File Name: cvd_data.csv
 
 • Number of attributes (Columns): 17
 
-• Number of instances (Rows): 
+• Number of instances (Rows): 3242
 
 The data is provided in a .csv file and you can downlaod it from the following GitHub link (save it on your local drive/folder). 
 
