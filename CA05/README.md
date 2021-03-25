@@ -1,4 +1,4 @@
-***CA04 Assignment - Logistic Regressiion -- Max Kaiser***
+***CA05 Assignment - Logistic Regression -- Max Kaiser***
 
 
 **Assignment Description:**
