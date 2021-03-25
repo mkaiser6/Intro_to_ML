@@ -19,8 +19,6 @@ ________________________________________________________________________________
 
 Data File Name: cvd_data.csv
 
-File Location: https://github.com/ArinB/CA05-B-Logistic-Regression/raw/master/cvd_data.csv
-
 • Number of target classes: 2 (CVD Risk Yes/No, or 1/0) 
 
 • Number of attributes (Columns): 17
@@ -29,7 +27,7 @@ File Location: https://github.com/ArinB/CA05-B-Logistic-Regression/raw/master/cv
 
 The data is provided in a .csv file and you can downlaod it from the following GitHub link (save it on your local drive/folder). 
 
-https://github.com/ArinB/CA05-B-Logistic-Regression/raw/master/cvd_data.csv
+File Location: https://github.com/ArinB/CA05-B-Logistic-Regression/raw/master/cvd_data.csv
 
 
 ______________________________________________________________________________________________________________________
