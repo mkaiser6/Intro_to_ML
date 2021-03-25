@@ -36,18 +36,7 @@ ________________________________________________________________________________
 
 **Packages to import:**
 
-import pandas as pd 
-import numpy as np
-import matplotlib.pyplot as plt
-from sklearn.tree import DecisionTreeClassifier
-from sklearn import preprocessing 
 
-from sklearn.preprocessing import LabelEncoder 
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.ensemble import AdaBoostClassifier
-from sklearn.ensemble import GradientBoostingClassifier
-from xgboost import XGBClassifier
-from sklearn.metrics import accuracy_score, roc_auc_score 
 ______________________________________________________________________________________________________________________
 
 Please feel free to reach out if you have any questions or issues with accessing or understanding any documents 
