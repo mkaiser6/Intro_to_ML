@@ -38,7 +38,23 @@ ________________________________________________________________________________
 
 **Packages to import:**
 
+import pandas as pd 
 
+import numpy as np
+
+import matplotlib.pyplot as plt 
+
+from sklearn import linear_model 
+
+import statsmodels.api as sm
+
+from sklearn.model_selection import train_test_split
+
+from sklearn import metrics
+
+from sklearn.metrics import roc_auc_score
+
+from sklearn.metrics import roc_curve
 ______________________________________________________________________________________________________________________
 
 Please feel free to reach out if you have any questions or issues with accessing or understanding any documents 
